@@ -1,0 +1,21 @@
+/* code pour donner couleur du fond */
+
+.backround {
+  background-color: #ddb9ab;
+}
+
+/* changer la couleur texte  */
+a {
+  font-size: 12px;
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.teste a {
+  color: #ddb9ab;
+}
+.teste {
+  text-align: center;
+}
