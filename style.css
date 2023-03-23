@@ -1,0 +1,28 @@
+/*TOP IMAGE PART*/
+
+#top_box {
+  display: flex;
+}
+/*icons part*/
+#top_left_icon {
+  display: flex;
+  flex-direction: column;
+  height: 128.08636474609375px;
+  width: 18px;
+  margin-top: 10%;
+}
+
+.icons {
+  width: 130%;
+  height: auto;
+  margin-top: 180%;
+}
+/*img top area*/
+#top_img {
+  margin-left: 3%;
+}
+
+#imgg {
+  height: 45.5vw;
+  width: auto;
+}
